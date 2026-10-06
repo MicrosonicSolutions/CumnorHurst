@@ -3,6 +3,7 @@
    Main site stylesheet
    ========================================================= */
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
 /* ---------- Base ---------- */
 
@@ -72,7 +73,7 @@ a {
 h1,
 h2,
 h3 {
-  font-family: var(--serif);
+  font-family: "Lato", sans-serif;
   font-weight: 400;
   line-height: 1.05;
 }
