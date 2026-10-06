@@ -33,7 +33,7 @@ const pointsOfInterest = [
         title: "Rhino",
         x: 223,
         y: 504,
-        image: "poi/Rhino.png",
+        image: "poi/Rhino.jpg",
         text: "It's a nature reserve so there is wildlife here."
     },
 
@@ -42,7 +42,7 @@ const pointsOfInterest = [
         title: "Shovel",
         x: 1005,
         y: 650,
-        image: "poi/Spade.png",
+        image: "poi/Spade.jpg",
         text: "Can you see something up in the tree? How did it get there?"
     },
     
