@@ -25,7 +25,7 @@ const pointsOfInterest = [
         image: "poi/Folly.jpg",
         text: "The history of the folly is unclear.\n" +
           "For some time, it was believed that it simply indicated a clump of trees. " +
-          "However recent work has revealed the remains of a building.\n"
+          "However recent work has revealed stonework that looks to be intentionally placed there.\n"
     },
     
     {
