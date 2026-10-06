@@ -39,7 +39,7 @@ const pointsOfInterest = [
 
     {
         id: "poi5",
-        title: "Spade",
+        title: "Shovel",
         x: 1005,
         y: 650,
         image: "poi/Spade.png",
