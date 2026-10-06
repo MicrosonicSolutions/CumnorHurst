@@ -82,7 +82,7 @@ h3 {
 h1 {
   margin: 12px 0 22px;
   color: var(--white);
-  font-size: clamp(4rem, 9vw, 8rem);
+  font-size: clamp(3rem, 9vw, 8rem);
   letter-spacing: -0.045em;
 }
 
@@ -755,7 +755,7 @@ footer {
 @media (max-width: 480px) {
 
   h1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
 
