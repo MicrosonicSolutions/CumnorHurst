@@ -787,85 +787,85 @@ footer {
 }
 
 /* Placeholder pages */
-.placeholder-page {
+.subpage-page {
     background: var(--cream);
     color: var(--forest);
 }
 
-.placeholder-page main {
+.subpage-page main {
     min-height: 70vh;
 }
 
-.placeholder-content {
+.subpage-content {
     max-width: 760px;
     margin: 0 auto;
     padding: 7rem 1.5rem;
 }
 
-.placeholder-content h1 {
+.subpage-content h1 {
     color: var(--forest);
 }
 
-.placeholder-content p {
+.subpage-content p {
     color: #405247;
     max-width: 620px;
 }
 
-.placeholder-content .eyebrow {
+.subpage-content .eyebrow {
     color: var(--moss);
 }
 
-.placeholder-content a {
+.subpage-content a {
     color: var(--forest);
 }
 
 /* Placeholder page contrast */
-.placeholder-page {
+.subpage-page {
     background: var(--cream);
     color: var(--forest);
 }
 
-.placeholder-page .site-header {
+.subpage-page .site-header {
     background: var(--cream);
     color: var(--forest);
 }
 
-.placeholder-page .site-header a {
+.subpage-page .site-header a {
     color: var(--forest);
 }
 
-.placeholder-page .site-header .brand-mark {
+.subpage-page .site-header .brand-mark {
     color: #fff;
     background: var(--forest);
 }
 
-.placeholder-page .site-header .menu-toggle {
+.subpage-page .site-header .menu-toggle {
     color: var(--forest);
 }
 
-.placeholder-page main {
+.subpage-page main {
     min-height: 70vh;
 }
 
-.placeholder-content {
+.subpage-content {
     max-width: 760px;
     margin: 0 auto;
     padding: 7rem 1.5rem;
 }
 
-.placeholder-content h1 {
+.subpage-content h1 {
     color: var(--forest);
 }
 
-.placeholder-content p {
+.subpage-content p {
     color: #405247;
     max-width: 620px;
 }
 
-.placeholder-content .eyebrow {
+.subpage-content .eyebrow {
     color: var(--moss);
 }
 
-.placeholder-content a {
+.subpage-content a {
     color: var(--forest);
 }
