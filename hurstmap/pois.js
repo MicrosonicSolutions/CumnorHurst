@@ -22,7 +22,7 @@ const pointsOfInterest = [
         title: "Folly",
         x: 1088,
         y: 652,
-        image: "https://clipart-library.com/images_k/question-mark-clipart-transparent/question-mark-clipart-transparent-14.jpg",
+        image: "https://clipart-library.com/images/yTkrBoz7c.jpg",
         text: "The history of the folly is unclear.\n" +
           "For some time, it was believed that it simply indicated a clump of trees. " +
           "However recent work has revealed stonework that looks to have been intentionally placed there.\n"
@@ -42,7 +42,7 @@ const pointsOfInterest = [
         title: "Shovel",
         x: 1005,
         y: 650,
-        image: "https://img.magnific.com/premium-psd/shovel-transparent-background_1244891-5348.jpg",
+        image: "https://clipart-library.com/newhp/Shovel-clip-art-at-vector-2-image.png",
         text: "Can you see something up in the tree? How did it get there?"
     },
     
@@ -51,7 +51,7 @@ const pointsOfInterest = [
         title: "Viewpoint",
         x: 976,
         y: 922,
-        image: "https://clipart-library.com/2023/nature-outdoor-landscape_1308-48825.jpg",
+        image: "https://cdn.creazilla.com/icons/3432869/viewpoint-icon-md.png",
         text: "I can see for miles and miles and miles and miles and miles!"
     }
     
