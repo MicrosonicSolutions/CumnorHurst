@@ -4,7 +4,7 @@ const pointsOfInterest = [
         title: "Community Orchard",
         x: 147,
         y: 495,
-        image: "poi/Orchard.jpg",
+        image: "https://thumbs.dreamstime.com/b/summer-landscape-apple-orchard-grden-green-apple-trees-vector-illustration-eps-summer-landscape-apple-orchard-grden-311498438.jpg",
         text: "The Cumnor Community Orchard was planted by volunteers in late 2025."
     },
 
@@ -13,7 +13,7 @@ const pointsOfInterest = [
         title: "Triangulation point",
         x: 1112,
         y: 782,
-        image: "poi/TrigPoint.jpg",
+        image: "https://s0.geograph.org.uk/geophotos/04/67/24/4672472_43f7ab53_original.jpg?sign=d1ab24842a",
         text: "The Triangulation point was used for surveying."
     },
 
@@ -33,7 +33,7 @@ const pointsOfInterest = [
         title: "Rhino",
         x: 223,
         y: 504,
-        image: "poi/Rhino.jpg",
+        image: "https://img.magnific.com/premium-vector/rhino-clipart-vector-illustration_1123392-2980.jpg",
         text: "It's a nature reserve so there is wildlife here."
     },
 
@@ -42,7 +42,7 @@ const pointsOfInterest = [
         title: "Shovel",
         x: 1005,
         y: 650,
-        image: "poi/Spade.jpg",
+        image: "https://img.magnific.com/premium-psd/shovel-transparent-background_1244891-5348.jpg",
         text: "Can you see something up in the tree? How did it get there?"
     },
     
@@ -51,7 +51,7 @@ const pointsOfInterest = [
         title: "Viewpoint",
         x: 976,
         y: 922,
-        image: "poi/Viewpoint.jpg",
+        image: "https://clipart-library.com/2023/nature-outdoor-landscape_1308-48825.jpg",
         text: "I can see for miles and miles and miles and miles and miles!"
     }
     
