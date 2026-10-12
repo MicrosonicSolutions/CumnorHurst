@@ -22,7 +22,7 @@ const pointsOfInterest = [
         title: "Folly",
         x: 1088,
         y: 652,
-        image: "poi/Folly.jpg",
+        image: "https://clipart-library.com/free/question-mark-clipart-transparent.html",
         text: "The history of the folly is unclear.\n" +
           "For some time, it was believed that it simply indicated a clump of trees. " +
           "However recent work has revealed stonework that looks to have been intentionally placed there.\n"
