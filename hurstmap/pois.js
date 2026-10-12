@@ -4,8 +4,8 @@ const pointsOfInterest = [
         title: "Community Orchard",
         x: 147,
         y: 495,
-        image: "https://gordonstokes.co.uk/temp/Orchard.jpg"",
-        text: "TThe Cumnor Community orchard was planted by volunteers in late 2025.\n" + 
+        image: "https://gordonstokes.co.uk/temp/Orchard.jpg",
+        text: "The Cumnor Community orchard was planted by volunteers in late 2025.\n" + 
           "You can 'adopt a tree' to look after if you want to. Contact Cumnor Conservation Group if you're interested."
     },
 
@@ -58,6 +58,6 @@ const pointsOfInterest = [
         image: "https://gordonstokes.co.uk/temp/Viewpoint.jpg",
         text: "You can see much of the Vale of the White Horse from here, including Uffington White Horse, and even Swindon on a clear day."
     }
-    
+
     
 ];
