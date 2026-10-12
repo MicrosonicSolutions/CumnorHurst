@@ -4,7 +4,7 @@ const pointsOfInterest = [
         title: "Community Orchard",
         x: 147,
         y: 495,
-        image: "https://thumbs.dreamstime.com/b/summer-landscape-apple-orchard-grden-green-apple-trees-vector-illustration-eps-summer-landscape-apple-orchard-grden-311498438.jpg",
+        image: "https://img2.clipart-library.com/25/apple-orchard-clip-art/apple-orchard-clip-art-5.jpg",
         text: "The Cumnor Community Orchard was planted by volunteers in late 2025."
     },
 
