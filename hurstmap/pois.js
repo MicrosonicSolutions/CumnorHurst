@@ -28,7 +28,9 @@ const pointsOfInterest = [
         y: 652,
         image: "https://gordonstokes.co.uk/temp/Folly.jpg",
         text: "The history of the folly is unclear.\n" +
-          "For some time, it was believed that it simply indicated a clump of trees (tall trees which were used as landmarks for ancient tracks and road were sometimes called follies and Hurst Lane was part of the main road from Faringdon to Oxford)\n" +
+          "For some time, it was believed that it simply indicated a clump of trees " + 
+          "(tall trees which were used as landmarks for ancient tracks and roads were sometimes called follies " + 
+          "and Hurst Lane was part of the main road from Faringdon to Oxford).\n" +
           "However recent work has revealed stonework that looks to have been intentionally placed there.\n"
     },
     
