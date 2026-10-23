@@ -11,7 +11,7 @@ const pointsOfInterest = [
 
     {
         id: "poi2",
-        title: "Triangulation point",
+        title: "Trig point",
         x: 1112,
         y: 782,
         image: "https://gordonstokes.co.uk/temp/TrigPoint.jpg",
