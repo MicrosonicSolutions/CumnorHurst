@@ -15,7 +15,7 @@ const pointsOfInterest = [
         x: 1112,
         y: 782,
         image: "https://gordonstokes.co.uk/temp/TrigPoint.jpg",
-        text: "Triangulation (or 'Trig') points were used from the start of the 19th century for Ordnance Survey mapping.\n" +
+        text: "Triangulation stations (also known as trigonometrical or 'Trig' points) were used from the start of the 19th century for Ordnance Survey mapping.\n" +
           "From 1936 they put up new concrete ones for updated mapping. " +
           "The Cumnor Hurst one was moved 100 metres south from the Folly, probably because it had a better view to other trig points.\n" + 
           "After 90 years the woods have grown up and the only view of any distance is towards the Viewpoint to the South West."
