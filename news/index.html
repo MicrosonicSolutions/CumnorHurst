@@ -101,32 +101,6 @@
       meta.textContent = [author, date].filter(Boolean).join(" · ");
       article.appendChild(meta);
 
-      // Extract a preview and the first image from the article.
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(
-        post.content || "",
-        "text/html"
-      );
-
-      const firstImage = doc.querySelector("img");
-
-      if (firstImage && firstImage.src) {
-        try {
-          const imageURL = new URL(firstImage.src);
-
-          if (["https:", "http:"].includes(imageURL.protocol)) {
-            const image = document.createElement("img");
-            image.src = imageURL.href;
-            image.alt = firstImage.alt || post.title;
-            image.loading = "lazy";
-            image.className = "news-image";
-            article.appendChild(image);
-          }
-        } catch (_) {
-          // Ignore invalid image URLs.
-        }
-      }
-
       const content = document.createElement("div");
       content.className = "news-content";
       content.innerHTML = post.content || "";
