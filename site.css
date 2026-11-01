@@ -724,6 +724,12 @@ footer {
     left: 16px;
     bottom: 16px;
   }
+  
+  .hero-lede {
+    font-size: clamp(1rem, 2vw, 1rem);
+    line-height: 1.4;
+  }
+
 
 
   .intro-grid,
