@@ -1,5 +1,5 @@
 /*
- * Cumnor Hurst GPS -> image coordinate conversion.
+ * GPS -> image coordinate conversion.
  *
  * This reproduces the approach used by the
  * original Android application:

@@ -1,3 +1,7 @@
+const mapOverlays = [
+];
+
+
 const pointsOfInterest = [
     {
         id: "poi1",
@@ -63,3 +67,15 @@ const pointsOfInterest = [
 
     
 ];
+
+mapOverlays.push(
+{
+  id: "poi",
+  title: "Points of Interest",
+  data: pointsOfInterest,
+  markerStyle: { background: "#7716d2" },
+  visible: false,
+  markerClass: "poi-pin"
+
+});
+

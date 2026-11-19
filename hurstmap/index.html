@@ -14,7 +14,7 @@
     <title>Cumnor Hurst Map</title>
 
     <link rel="stylesheet"
-          href="style.css?v=1">
+          href="https://www.richardedmonds.com/hillendmap/style.css?v=2">
 
 </head>
 
@@ -46,14 +46,25 @@
 			Show location
 		</button>
     
-    <button id="poi-button">
-      Show points of interest
+    <button id="option-button">
+      Show options
     </button>
 
 		<span id="gps-status"></span>
 
 	</div>
-  
+ 
+  <div id="options-popup">
+    <h2>Map options</h2>
+
+    <div id="overlay-options"></div>
+    
+    <div class="options-actions">
+      <button id="options-cancel">Cancel</button>
+      <button id="options-apply">Apply</button>
+    </div>
+  </div>  
+ 
   <div id="poi-popup">
     <button id="poi-close">×</button>
 
@@ -68,9 +79,9 @@
 
   <script src="debug.js?v=2"></script>
   <script src="mapReferences.js"></script>
-  <script src="mapProjection.js"></script>
+  <script src="https://www.richardedmonds.com/hillendmap/mapProjection.js"></script>
   <script src="pois.js?v=2"></script>
-  <script src="app.js?v=2d"></script>
+  <script src="https://www.richardedmonds.com/hillendmap/app.js?v=1"></script>
 
 </body>
 
