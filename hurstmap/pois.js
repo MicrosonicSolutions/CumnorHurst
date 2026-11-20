@@ -72,6 +72,7 @@ mapOverlays.push(
 {
   id: "poi",
   title: "Points of Interest",
+  type: "points",
   data: pointsOfInterest,
   markerStyle: { background: "#7716d2" },
   visible: false,
@@ -79,3 +80,13 @@ mapOverlays.push(
 
 });
 
+/*
+mapOverlays.push(
+{
+    id: "test-image",
+    title: "Test Image Overlay",
+    type: "image",
+    image: "Historical.png",
+    visible: false
+});
+*/
