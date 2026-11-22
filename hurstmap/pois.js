@@ -74,7 +74,7 @@ mapOverlays.push(
   title: "Points of Interest",
   type: "points",
   data: pointsOfInterest,
-  markerStyle: { background: "#7716d2" },
+  markerStyle: { background: "#4516ff" },
   visible: false,
   markerClass: "poi-pin"
 
